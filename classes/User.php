@@ -157,6 +157,10 @@
             }
         }
 
+        public function test(){
+            dei("This is a test");
+        }
+
     }
 
 ?>
