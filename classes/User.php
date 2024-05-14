@@ -132,7 +132,6 @@
                             exit;
                         } else{
                             die("Error in moving the photo.");
-
                         }
                     } else{
                         die("Error in uploading the photo.");
